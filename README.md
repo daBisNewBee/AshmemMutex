@@ -1,0 +1,2 @@
+# AshmemMutex
+基于Ashemem的Android进程间互斥实例
